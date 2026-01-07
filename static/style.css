@@ -1,0 +1,24 @@
+/* ... (CSS ส่วนบนเหมือนเดิม) ... */
+
+/* Result Box Styles Updated */
+#result-box {
+    margin-top: 2rem;
+    padding: 1.5rem; /* เพิ่ม padding หน่อย */
+    border-radius: 10px;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    text-align: center; /* จัดรูปให้อยู่ตรงกลาง */
+}
+
+/* เพิ่มสไตล์สำหรับรูปภาพ */
+#flower-img {
+    margin-top: 15px;
+    max-width: 100%;       /* ไม่ให้รูปใหญ่เกินกล่อง */
+    height: auto;
+    border-radius: 10px;   /* มุมมน */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* เงารูป */
+    display: none;         /* ซ่อนไว้ก่อน */
+}
+
+/* ... (ส่วนอื่นเหมือนเดิม) ... */
