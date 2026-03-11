@@ -99,7 +99,6 @@
 
 ### Web Application
 - Flask
-- Streamlit
 
 ### การประมวลผลข้อมูล
 - BeautifulSoup
