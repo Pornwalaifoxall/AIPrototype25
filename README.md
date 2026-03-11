@@ -171,14 +171,6 @@
 
 ---
 
-# 🚀 ลิงก์โปรเจกต์
-
-| แพลตฟอร์ม | ลิงก์ |
-|---|---|
-| 🌐 เว็บไซต์โปรเจกต์ | https://github.com/thamonS/ThaiHealthNewsVerify |
-| 🚀 Web Application | https://github.com/Pornwalaifoxall/THHEALTHLENS |
-
----
 
 # 🎯 สิ่งที่ต้องนำเสนอ
 
