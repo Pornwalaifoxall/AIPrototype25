@@ -1,22 +1,12 @@
 <div align="center">
+
+# 🤖 HEALIX  
+### ระบบตรวจสอบข่าวสุขภาพด้วยปัญญาประดิษฐ์
+
 ระบบ AI สำหรับ **ตรวจสอบความน่าเชื่อถือของข่าวสุขภาพภาษาไทย (Fake Health News Detection)**  
 โดยใช้ **Large Language Models (LLM)** และการค้นหาหลักฐานจากอินเทอร์เน็ต
-# 📚 รายวิชา AI Prototype 2025
 
-**SC664401 – Prototyping for Artificial Intelligence and Machine Learning System**  
-มหาวิทยาลัยขอนแก่น
-
-รายวิชานี้มุ่งเน้นการพัฒนาต้นแบบระบบ **Artificial Intelligence และ Machine Learning** ตั้งแต่พื้นฐานไปจนถึงการสร้างระบบจริง เช่น
-
-- Cloud Computing
-- Virtual Machine
-- Unix / Linux Command
-- Git และ Version Control
-- Python Notebook บน Cloud
-- Web Application และ API
-- Deep Learning และ Large Language Models
-
----
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![AI](https://img.shields.io/badge/AI-LLM-green)
@@ -28,11 +18,21 @@
 </div>
 
 ---
-# 🤖 HEALIX  
-### ระบบตรวจสอบข่าวสุขภาพด้วยปัญญาประดิษฐ์
 
-ระบบ AI สำหรับ **ตรวจสอบความน่าเชื่อถือของข่าวสุขภาพภาษาไทย (Fake Health News Detection)**  
-โดยใช้ **Large Language Models (LLM)** และการค้นหาหลักฐานจากอินเทอร์เน็ต
+# 📚 รายวิชา AI Prototype 2025
+
+**SC664401 – Prototyping for Artificial Intelligence and Machine Learning System**  
+มหาวิทยาลัยขอนแก่น
+
+รายวิชานี้มุ่งเน้นการพัฒนาต้นแบบระบบ **Artificial Intelligence และ Machine Learning** ตั้งแต่พื้นฐานไปจนถึงการสร้างระบบจริง โดยครอบคลุมหัวข้อสำคัญ เช่น
+
+- Cloud Computing
+- Virtual Machine
+- Unix / Linux Command
+- Git และ Version Control
+- Python Notebook บน Cloud
+- Web Application และ API
+- Deep Learning และ Large Language Models
 
 ---
 
@@ -50,15 +50,15 @@
 
 # 🧠 ภาพรวมของโปรเจกต์
 
-**TH HEALTH LENS** เป็นระบบปัญญาประดิษฐ์ที่ถูกพัฒนาขึ้นเพื่อช่วย **ตรวจสอบความถูกต้องของข่าวภาษาไทยในหมวดสุขภาพ**
+**TH HEALTH LENS** เป็นระบบปัญญาประดิษฐ์ที่พัฒนาขึ้นเพื่อช่วย **ตรวจสอบความถูกต้องของข่าวภาษาไทยในหมวดสุขภาพ**
 
-ระบบสามารถช่วยผู้ใช้วิเคราะห์ว่าเนื้อหาข่าวนั้นเป็น
+ระบบสามารถวิเคราะห์ว่าเนื้อหาข่าวนั้นเป็น
 
 - ✅ **ข่าวจริง**
 - ❌ **ข่าวปลอม**
 - ⚠️ **ข่าวที่ต้องตรวจสอบเพิ่มเติม**
 
-พร้อมทั้งแสดง
+พร้อมทั้งแสดงข้อมูลประกอบ ได้แก่
 
 - เหตุผลในการวิเคราะห์
 - แหล่งข้อมูลอ้างอิง
@@ -168,7 +168,6 @@
 AIPrototype25
 │
 ├── static
-│
 ├── templates
 │
 ├── HW1.png
@@ -184,7 +183,6 @@ AIPrototype25
 ├── web_app.py
 │
 ├── iris_model.pkl
-│
 └── README.md
 ```
 
@@ -212,9 +210,9 @@ AIPrototype25
 
 ---
 
+<div align="center">
 
-### ⭐ AI Prototype Project 2025
-
+### ⭐ AI Prototype Project 2025  
 โครงงานพัฒนาต้นแบบระบบ AI สำหรับตรวจสอบข่าวสุขภาพ
 
 </div>
