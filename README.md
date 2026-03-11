@@ -33,7 +33,6 @@
 - Python Notebook บน Cloud
 - Web Application และ API
 - Deep Learning และ Large Language Models
-- Logging และ Dashboard
 
 ---
 
