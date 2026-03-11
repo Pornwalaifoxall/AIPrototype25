@@ -11,7 +11,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![AI](https://img.shields.io/badge/AI-LLM-green)
 ![Framework](https://img.shields.io/badge/Framework-Flask-orange)
-![WebApp](https://img.shields.io/badge/WebApp-Streamlit-red)
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow)
 ![University](https://img.shields.io/badge/KKU-Statistics%20%26%20Data%20Science-purple)
 
