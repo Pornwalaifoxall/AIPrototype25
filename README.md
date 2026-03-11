@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 HEALIX  
+# 🤖 TH HEALTH LENS 
 ### ระบบตรวจสอบข่าวสุขภาพด้วยปัญญาประดิษฐ์
 
 ระบบ AI สำหรับ **ตรวจสอบความน่าเชื่อถือของข่าวสุขภาพภาษาไทย (Fake Health News Detection)**  
