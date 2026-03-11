@@ -212,15 +212,6 @@ AIPrototype25
 
 ---
 
-# 📷 ตัวอย่างหน้าตาระบบ
-
-```
-![system](images/system.png)
-```
-
----
-
-<div align="center">
 
 ### ⭐ AI Prototype Project 2025
 
