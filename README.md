@@ -3,7 +3,7 @@
 # 🤖 HEALIX  
 ### ระบบตรวจสอบข่าวสุขภาพด้วยปัญญาประดิษฐ์
 
-ระบบ AI สำหรับ **ตรวจสอบความน่าเชื่อถือของข่าวสุขภาพ (Fake Health News Detection)**  
+ระบบ AI สำหรับ **ตรวจสอบความน่าเชื่อถือของข่าวสุขภาพภาษาไทย (Fake Health News Detection)**  
 โดยใช้ **Large Language Models (LLM)** และการค้นหาหลักฐานจากอินเทอร์เน็ต
 
 ---
@@ -50,7 +50,7 @@
 
 # 🧠 ภาพรวมของโปรเจกต์
 
-**TH HEALTH LENS** เป็นระบบปัญญาประดิษฐ์ที่ถูกพัฒนาขึ้นเพื่อช่วย **ตรวจสอบความถูกต้องของข่าวถาษาไทยในหมวดสุขภาพ**
+**TH HEALTH LENS** เป็นระบบปัญญาประดิษฐ์ที่ถูกพัฒนาขึ้นเพื่อช่วย **ตรวจสอบความถูกต้องของข่าวภาษาไทยในหมวดสุขภาพ**
 
 ระบบสามารถช่วยผู้ใช้วิเคราะห์ว่าเนื้อหาข่าวนั้นเป็น
 
@@ -145,46 +145,78 @@
 
 # 📅 ตารางการเรียน
 
-| ครั้ง | วันที่ | หัวข้อ |
+| ครั้ง | วันที่ | หัวข้อ | Lecture |
+|---|---|---|---|
+| I | 26/11/68 | Install Ubuntu และ Command Line | [Lecture Class 1](https://github.com/PornwalaiFoxall/AIPrototype25/blob/main/Lecture%20Class%201.md) |
+| II | 27/11/68 | Linux Command Line | [Lecture Class 2](https://github.com/PornwalaiFoxall/AIPrototype25/blob/main/Lecture%20Class%202.md) |
+| III | 03/12/68 | Cloud Virtual Machines | [Lecture Class 3](https://github.com/PornwalaiFoxall/AIPrototype25/blob/main/Lecture%20Class%203.md) |
+| IV | 04/12/68 | Install Miniconda | [Lecture Class 4](https://github.com/PornwalaiFoxall/AIPrototype25/blob/main/Lecture%20Class%204.md) |
+
+---
+
+# ✍️ Homework
+
+| Assignment | Description | Link |
 |---|---|---|
-| I | 26/11/68 | Install Ubuntu และ Command Line |
-| II | 27/11/68 | Linux Command Line |
-| III | 03/12/68 | Cloud Virtual Machines |
-| IV | 04/12/68 | Install Miniconda |
-| V | 11/12/68 | Conda Environment และ GitHub |
-| VI | 25/12/68 | Web และ HTTP Methods |
-| VII | 07/01/69 | Web Service และ Web App |
-| VIII | 14/01/69 | Deploy Web Application |
-| IX | 15/01/69 | AI และ Large Language Models |
+| HW1 | Copy file command | [HW1.png](https://github.com/PornwalaiFoxall/AIPrototype25/blob/main/HW1.png) |
 
 ---
 
-# 🔎 หัวข้อวิจัยที่เกี่ยวข้อง
+# 📂 โครงสร้างโปรเจกต์ (Project Structure)
 
-1. Fake News Detection  
-2. Health News Verification  
-3. Large Language Models for Fact Checking  
-4. Multimodal Fake News Detection  
-5. AI Evidence Retrieval  
-6. Explainable AI
+```
+AIPrototype25
+│
+├── static
+│
+├── templates
+│
+├── HW1.png
+├── Lecture Class 1.md
+├── Lecture Class 2.md
+├── Lecture Class 3.md
+├── Lecture Class 4.md
+│
+├── myfirstflask.py
+├── myfirstpy.py
+├── test_post.py
+├── train.py
+├── web_app.py
+│
+├── iris_model.pkl
+│
+└── README.md
+```
 
 ---
 
+# 📄 รายละเอียดไฟล์สำคัญ
+
+| File | Description |
+|---|---|
+| web_app.py | Web application สำหรับตรวจสอบข่าว |
+| train.py | สคริปต์สำหรับ training model |
+| iris_model.pkl | โมเดล Machine Learning ที่ฝึกแล้ว |
+| myfirstflask.py | ตัวอย่าง Flask application |
+| myfirstpy.py | Python script ตัวอย่าง |
+| test_post.py | ทดสอบ HTTP POST |
+| templates/ | HTML Template สำหรับหน้าเว็บ |
+| static/ | ไฟล์ CSS / JavaScript |
+
+---
 
 # 🎯 สิ่งที่ต้องนำเสนอ
 
 - [x] เว็บไซต์นำเสนอผลงาน (Web page Pages)  
-- [x] Web Application    
+- [x] Web Application  
 
 ---
 
+# 📷 ตัวอย่างหน้าตาระบบ
 
 ```
 ![system](images/system.png)
 ```
-
----
-
 
 ---
 
